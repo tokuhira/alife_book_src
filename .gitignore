@@ -73,3 +73,9 @@ _Deparsed_XSubs.pm
 */__pycache__/*.pyc
 *.pyc
 .python-version
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
